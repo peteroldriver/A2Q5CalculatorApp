@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="number_button">
+        <item name="android:onClick">numberAction</item>
+    </style>
+
+    <style name="operator_button">
+        <item name="android:onClick">operatorAction</item>
+    </style>
+
+</resources>
